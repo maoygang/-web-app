@@ -11,6 +11,9 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
+# serve with hot reload at localhost:8080
+npm run build
+
 运行node prod.server.js
 在localhost:9000
 
