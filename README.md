@@ -16,6 +16,6 @@ npm run build
 在localhost:9000
 
 ```
-![image](D:1.gif)
+![image](https://github.com/maoygang/-web-app/blob/master/result.gif)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
